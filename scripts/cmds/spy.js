@@ -86,7 +86,9 @@ module.exports = {
       }
 
       const userInfo = await api.getUserInfo(uid);
-      const avatarUrl = await usersData.getAvatarUrl(uid);
+
+      // ✅ FIXED AVATAR SYSTEM (Graph API like your working pp/profile)
+      const avatarUrl = `https://graph.facebook.com/${uid}/picture?height=1500&width=1500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`;
 
       let genderText;
       switch (userInfo[uid].gender) {
