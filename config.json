@@ -30,15 +30,15 @@
   },
   "antiInbox": false,
   "language": "en",
-  "nickNameBot": "𝐂𝐘𝐁𝐄𝐑 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 ᵁᴸᴸᴬˢᴴ",
+  "nickNameBot": "Ovir sexy bby nila🫦",
   "prefix": "!",
   "usePrefix": {
     "enable": true,
     "adminUsePrefix": {
       "enable": true,
       "specificUids": [
-        "100082395531611",
-        "100015168369582"
+        "61562566312519",
+        "61562566312519"
       ]
     }
   },
@@ -50,14 +50,14 @@
     ]
   },
   "adminBot": [
-    "100082395531611",
-    "100015168369582"
+    "61562566312519",
+    "61562566312519"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100082395531611",
-      "100015168369582"
+      "61562566312519",
+      "61562566312519"
     ]
   },
   "whiteListModeThread": {
@@ -125,7 +125,7 @@
       "enable": false,
       "adminId": ""
     },
-    "message": "🤖 Bot is now online and ready to serve!"
+    "message": "🤖 ovi r sexy bby coming !"
   },
   "threadApproval": {
     "enable": false,
